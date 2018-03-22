@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="CustomRenderer" t="IncludeRecursive">
+        <e p="App.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CustomRenderer.csproj" t="IncludeRecursive" />
+        <e p="HybridWebView.cs" t="Include" />
+        <e p="HybridWebViewPage.xaml" t="Include" />
+        <e p="HybridWebViewPage.xaml.cs" t="Include" />
+        <e p="HybridWebViewPageCS.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="CustomRenderer.sln" t="IncludeFlat" />
+      <e p="Droid" t="IncludeRecursive">
+        <e p="Assets" t="Include">
+          <e p="AboutAssets.txt" t="Include" />
+          <e p="Content" t="Include">
+            <e p="index.html" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CustomRenderer.Droid.csproj" t="IncludeRecursive" />
+        <e p="HybridWebViewRenderer.cs" t="Include" />
+        <e p="JSBridge.cs" t="Include" />
+        <e p="MainActivity.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AndroidManifest.xml" t="Include" />
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="AboutResources.txt" t="Include" />
+          <e p="drawable" t="Include">
+            <e p="icon.png" t="Include" />
+          </e>
+          <e p="drawable-hdpi" t="Include">
+            <e p="icon.png" t="Include" />
+          </e>
+          <e p="drawable-xhdpi" t="Include">
+            <e p="icon.png" t="Include" />
+          </e>
+          <e p="drawable-xxhdpi" t="Include">
+            <e p="icon.png" t="Include" />
+          </e>
+          <e p="layout" t="Include" />
+          <e p="Resource.designer.cs" t="Include" />
+          <e p="values" t="Include" />
+        </e>
+      </e>
+      <e p="iOS" t="IncludeRecursive">
+        <e p="AppDelegate.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Content" t="Include">
+          <e p="index.html" t="Include" />
+        </e>
+        <e p="CustomRenderer.iOS.csproj" t="IncludeRecursive" />
+        <e p="Entitlements.plist" t="Include" />
+        <e p="HybridWebViewRenderer.cs" t="Include" />
+        <e p="Info.plist" t="Include" />
+        <e p="ITunesArtwork" t="Include" />
+        <e p="ITunesArtwork@2x" t="Include" />
+        <e p="Main.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Resources" t="Include">
+          <e p="Default-568h@2x.png" t="Include" />
+          <e p="Default-Portrait.png" t="Include" />
+          <e p="Default-Portrait@2x.png" t="Include" />
+          <e p="Default.png" t="Include" />
+          <e p="Default@2x.png" t="Include" />
+          <e p="Icon-60@2x.png" t="Include" />
+          <e p="Icon-60@3x.png" t="Include" />
+          <e p="Icon-76.png" t="Include" />
+          <e p="Icon-76@2x.png" t="Include" />
+          <e p="Icon-Small-40.png" t="Include" />
+          <e p="Icon-Small-40@2x.png" t="Include" />
+          <e p="Icon-Small-40@3x.png" t="Include" />
+          <e p="Icon-Small.png" t="Include" />
+          <e p="Icon-Small@2x.png" t="Include" />
+          <e p="Icon-Small@3x.png" t="Include" />
+          <e p="LaunchScreen.storyboard" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="UWP/CustomRenderer.UWP.csproj" t="IncludeRecursive" />
+      <e p="WinPhone81/CustomRenderer.WinPhone81.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2017.3/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_CustomRenderer.-362659156.00" t="ExcludeRecursive" />
+  </component>
+</project>
