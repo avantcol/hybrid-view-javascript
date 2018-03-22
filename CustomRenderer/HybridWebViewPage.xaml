@@ -7,9 +7,6 @@
 	<ContentPage.Content>
   
 		<local:HybridWebView x:Name="hybridWebView" Uri="index.html" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" />
-      
-		<!--
-		<local:HybridWebView x:Name="hybridWebView" Uri="https://avantrack.co/index.jsp" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" />
-		-->
+		
 	</ContentPage.Content>
 </ContentPage>

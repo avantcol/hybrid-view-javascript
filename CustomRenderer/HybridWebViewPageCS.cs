@@ -9,8 +9,7 @@ namespace CustomRenderer
 		public HybridWebViewPageCS ()
 		{
 			var hybridWebView = new HybridWebView {
-				//Uri = "index.html",
-				Uri = "https://avantrack.co/index.jsp",
+				Uri = "index.html",
 				HorizontalOptions = LayoutOptions.FillAndExpand,
 				VerticalOptions = LayoutOptions.FillAndExpand
 			};
